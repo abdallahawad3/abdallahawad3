@@ -24,7 +24,9 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![notion](https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000)
-
+![javascript](https://img.shields.io/badge/-javascript-181717?style=flat-square&logo=javascript)
+![sass](https://img.shields.io/badge/-sass-%23E44D27?style=flat-square&logo=sass&logoColor=ffffff)
+![bootstarb](https://img.shields.io/badge/-Bootstrap-0078D6?style=flat-square&logo=Bootstrap&logoColor=ffffff)
 
 
 
