@@ -1,6 +1,10 @@
-# 💫 About Me:
-
-⚡I'm Abdullah awad from Egypt. <br>🔥I'm a front-end developer. <br>❤I really enjoy learning programming languages and frameworks. <br>🔃I also enjoy implementing designs. <br>🤝For this moment, I'm a junior web developer and learning increasingly.
+# Hi, I'm Abdallah! 👋  
+- I'm a **front-end developer** passionate about building modern, responsive, and user-friendly web applications.
+- **Education**: I'm currently studying **Computer Science**. My coursework focuses on programming, software engineering, and web development, equipping me with the skills to excel in the tech industry.  
+- I have expertise in **HTML5, CSS3, JavaScript, TypeScript, and React.js**, with a strong focus on **Tailwind CSS** for styling and design.  
+- Outside of coding, I love solving challenges and continuously learning new technologies to improve my craft.  
+- **Passions**: Problem-solving, clean code, and creating intuitive user experiences. I strive to stay updated with the latest web development trends and best practices.  
+- **Lifelong Learner**: I’m constantly exploring new technologies and tools to enhance my development skills.  
 
 # 💻 Tech Stack:
 
